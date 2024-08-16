@@ -1,6 +1,7 @@
 # portfolio
 
 check it out here : https://pretzelportfolio.netlify.app
+
 https://github.com/user-attachments/assets/4e505c92-c8f1-48cb-896e-48e1fd55fc27
 
 This project is an early verision of my personal portfolio for all my coding, cad, or non technical projects.
