@@ -9,3 +9,11 @@ Click on projects to view my recent (or non recent) projects and click on the sp
 Furthermore click on about to view who i am, and what i do. 
 
 hope you have fun exploring what ive been creating!
+
+**self hosting instructions**
+
+1 download all files
+
+2 make a project folder, call it whatever you want, add all files to it
+
+3 use live server in vs code, click go live while viewing home.html
